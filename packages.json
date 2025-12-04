@@ -1,6 +1,6 @@
 [
     {
-        "package": "aigriwrm",
+        "package": "aiGRiwrm",
         "url": "https://github.com/inrae/aigriwrm"
     },
     {
@@ -8,7 +8,7 @@
         "url": "https://github.com/inrae/hubeau"
     },
     {
-        "package": "airgrccia",
+        "package": "airGRccia",
         "url": "https://forge.inrae.fr/airgriwrm/airgrccia"
     },
     {
