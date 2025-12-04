@@ -1,0 +1,26 @@
+[
+    {
+        "package": "aigriwrm",
+        "url": "https://github.com/inrae/aigriwrm"
+    },
+    {
+        "package": "hubeau",
+        "url": "https://github.com/inrae/hubeau"
+    },
+    {
+        "package": "airgrccia",
+        "url": "https://forge.inrae.fr/airgriwrm/airgrccia"
+    },
+    {
+        "package": "RADIS",
+        "url": "https://forge.inrae.fr/umr-g-eau/radis"
+    },
+    {
+        "package": "CropWat",
+        "url": "https://forge.inrae.fr/umr-g-eau/cropwat"
+    },
+    {
+        "package": "datagouvfr",
+        "url": "https://forge.inrae.fr/umr-g-eau/datagouvfr"
+    }
+]
