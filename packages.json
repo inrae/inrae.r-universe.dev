@@ -13,7 +13,8 @@
     },
     {
         "package": "RADIS",
-        "url": "https://forge.inrae.fr/umr-g-eau/radis"
+        "url": "https://forge.inrae.fr/umr-g-eau/radis",
+        "branch": "main"
     },
     {
         "package": "CropWat",
@@ -25,6 +26,7 @@
     },
     {
         "package": "CAWET",
-        "url": "https://forge.inrae.fr/umr-g-eau/cawet"
+        "url": "https://forge.inrae.fr/umr-g-eau/cawet",
+        "branch": "main"
     }
 ]
