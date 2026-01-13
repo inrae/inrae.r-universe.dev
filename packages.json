@@ -8,6 +8,10 @@
         "url": "https://github.com/inrae/hubeau"
     },
     {
+        "package": "IDEATools",
+        "url": "https://github.com/davidcarayon/ideatools"
+    },
+    {
         "package": "airGRccia",
         "url": "https://forge.inrae.fr/airgriwrm/airgrccia"
     },
