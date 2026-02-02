@@ -28,5 +28,10 @@
         "package": "CAWET",
         "url": "https://forge.inrae.fr/umr-g-eau/cawet",
         "branch": "main"
-    }
+    },
+    {
+        "package": "OptirrigCORE",
+        "url": "https://forge.inrae.fr/OptirrigHIVE/OptirrigCORE",
+        "branch": "main"
+    }        
 ]
