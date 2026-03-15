@@ -13,7 +13,8 @@
     },
     {
         "package": "airGRccia",
-        "url": "https://forge.inrae.fr/airgriwrm/airgrccia"
+        "url": "https://forge.inrae.fr/airgriwrm/airgrccia",
+        "branch": "main"
     },
     {
         "package": "RADIS",
@@ -22,7 +23,8 @@
     },
     {
         "package": "CropWat",
-        "url": "https://forge.inrae.fr/umr-g-eau/cropwat"
+        "url": "https://forge.inrae.fr/umr-g-eau/cropwat",
+        "branch": "main"
     },
     {
         "package": "datagouvfr",
