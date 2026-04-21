@@ -39,5 +39,15 @@
         "package": "OptirrigCORE",
         "url": "https://forge.inrae.fr/OptirrigHIVE/OptirrigCORE",
         "branch": "main"
-    }        
+    },
+        {
+        "package": "OptirrigTOOLS",
+        "url": "https://forge.inrae.fr/OptirrigHIVE/OptirrigTOOLS",
+        "branch": "main"
+    },
+        {
+        "package": "OptirrigVIEW",
+        "url": "https://forge.inrae.fr/OptirrigHIVE/OptirrigVIEW",
+        "branch": "main"
+    }
 ]
