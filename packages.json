@@ -50,4 +50,12 @@
         "url": "https://forge.inrae.fr/OptirrigHIVE/OptirrigVIEW",
         "branch": "main"
     }
+    {
+        "package": "martelosim",
+        "url": "https://forge.inrae.fr/lessem/rpackages/martelosim"
+    },
+    {
+		"package": "matreex",
+		"url": "https://forge.inrae.fr/lessem/rpackages/matreex"
+    }
 ]
