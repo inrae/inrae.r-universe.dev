@@ -1,7 +1,8 @@
 [
     {
         "package": "airGRiwrm",
-        "url": "https://github.com/inrae/airGRiwrm"
+        "url": "https://github.com/inrae/airGRiwrm",
+        "branch": "dev"
     },
     {
         "package": "hubeau",
