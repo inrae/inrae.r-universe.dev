@@ -58,5 +58,9 @@
     {
 		"package": "matreex",
 		"url": "https://forge.inrae.fr/lessem/rpackages/matreex"
-    }
+    },
+	{
+		"package": "easy16S",
+		"url": "https://forge.inrae.fr/migale/easy16s"
+	}
 ]
